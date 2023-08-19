@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd2cdb86.css",
+    "main.js": "/static/js/main.bf078072.js",
+    "static/media/cover 1.jpeg": "/static/media/cover 1.af6f1d26e3187a596ded.jpeg",
+    "static/media/one.jpeg": "/static/media/one.c6f2dfff2616aa8f88eb.jpeg",
+    "static/media/cover 3.jpeg": "/static/media/cover 3.80c09f42286f3511a5d3.jpeg",
+    "static/media/two.jpeg": "/static/media/two.853cacf2cec942da14d0.jpeg",
+    "static/media/asset 4.jpeg": "/static/media/asset 4.d5bd517fd03c30b1d90f.jpeg",
+    "static/media/hero journey 2.jpeg": "/static/media/hero journey 2.11a377e496fd6f53ed34.jpeg",
+    "static/media/hero journey 3.jpg": "/static/media/hero journey 3.846e43d771f71cd169c8.jpg",
+    "static/media/hero journey.jpg": "/static/media/hero journey.9594bdde820d2e4f3080.jpg",
+    "static/media/third.jpeg": "/static/media/third.bac4372cd0ba5091bcce.jpeg",
+    "static/media/cover 2.jpeg": "/static/media/cover 2.6831ba1c9fa48dca8940.jpeg",
+    "static/media/Ahsoka Image.jpeg": "/static/media/Ahsoka Image.a028dfeb81e281718cba.jpeg",
+    "static/media/star war.png": "/static/media/star war.f3d61c028983a06535e2.png",
+    "index.html": "/index.html",
+    "main.dd2cdb86.css.map": "/static/css/main.dd2cdb86.css.map",
+    "main.bf078072.js.map": "/static/js/main.bf078072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2cdb86.css",
+    "static/js/main.bf078072.js"
+  ]
+}
